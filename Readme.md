@@ -16,3 +16,8 @@ and for fun
 # EmailID
 
 arjunv020@gmail.com
+
+# View
+you can view the website at the below link:
+
+https://averjr28.github.io/MarvelLegengs.github.io/
